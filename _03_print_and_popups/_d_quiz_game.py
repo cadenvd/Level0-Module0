@@ -27,7 +27,8 @@ if __name__ == '__main__':
     else:
         Score = -1
 
-    imput3 = simpledialog.askstring(title='None', prompt="What is -4+6")
+    imput3 =
+
     if imput == "2":
        Score +=1
     else:
