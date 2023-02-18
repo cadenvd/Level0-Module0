@@ -14,7 +14,7 @@ if __name__ == '__main__':
     # 3. Code a for loop to run steps 4-10, 10 times
     for i in range(10):
         # 4. Ask the user for a guess using a pop-up window, and save their response
-        guess = simpledialog.askstring(title='None', prompt="Pick a number 1-100")
+        guess = simpledialog.askinteger(title='None', prompt="Pick a number 1-100")
         # 5. If the guess is correct
             # 6. Win. Use 'sys.exit(0)' to end the program
         if guess == random_num:
