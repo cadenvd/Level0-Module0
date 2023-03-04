@@ -30,4 +30,5 @@ if __name__ == '__main__':
 
     #11. Outside of the loop, tell the user they lost
     print('You lost')
-    window.mainloop()
+    window.mai
+    int
